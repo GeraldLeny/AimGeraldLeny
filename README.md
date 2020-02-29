@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AimGeraldLeny
 <center>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://imgbb.com/"><img width="522" height="217" alt="alliancetitle" src="https://i.ibb.co/z844CvX/alliancetitle.jpg" border="0" /></a> &nbsp; &nbsp;</p>
@@ -12,5 +11,5 @@
 </html>
 </center>
  Aimglobalwebsite
-=======
+
 
